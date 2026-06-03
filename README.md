@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=220&section=header&text=Gory%20Wiseman&fontSize=65&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20%7C%20Infrastructure%20Enthusiast&descAlignY=55&descAlign=50&descSize=20" alt="Waving Header" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+Robust+Networks...;Connecting+the+World...;Always+Learning+New+Tech!" alt="Typing SVG" />
+  </a>
+</p>
+
 ## 🛠 Tech Stack & Tools
 
 **Network Arsenal & Infrastructure**
