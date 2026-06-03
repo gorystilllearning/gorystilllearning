@@ -43,14 +43,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gorystilllearning/gorystilllearning/output/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/gorystilllearning/gorystilllearning/output/github-metrics.svg?v=2" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gorystilllearning/gorystilllearning/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gorystilllearning/gorystilllearning/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gorystilllearning/gorystilllearning/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gorystilllearning/gorystilllearning/output/github-contribution-grid-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gorystilllearning/gorystilllearning/output/github-contribution-grid-snake.svg?v=2">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gorystilllearning/gorystilllearning/output/github-contribution-grid-snake.svg?v=2">
   </picture>
 </p>
 
