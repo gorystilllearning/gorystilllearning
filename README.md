@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorystilllearning&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/gorystilllearning/gorystilllearning/output/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
