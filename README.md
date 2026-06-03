@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=220&section=header&text=Gory%20Wiseman&fontSize=65&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20%7C%20Infrastructure%20Enthusiast&descAlignY=55&descAlign=50&descSize=20" alt="Waving Header" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gorystilllearning&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
