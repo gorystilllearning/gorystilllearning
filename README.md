@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gorystilllearning/gorystilllearning/output/github-metrics-v3.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/gorystilllearning/gorystilllearning/output/github-metrics-v4.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
