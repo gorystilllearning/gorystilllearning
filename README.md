@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600" alt="Matrix Code Animation" />
+  <img src="kiss.gif" alt="ASCII Kiss Animation" />
 </p>
 
 <p align="center">
