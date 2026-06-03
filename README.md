@@ -43,6 +43,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gorystilllearning&theme=gotham&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorystilllearning&theme=gotham&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gorystilllearning&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
 </p>
 
