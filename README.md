@@ -83,7 +83,5 @@
   </a>
 </p>
 
----
-
 ## 💭 Quote
 > "A network is only as strong as its weakest link, but a great engineer knows how to reinforce them all."
