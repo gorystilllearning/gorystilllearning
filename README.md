@@ -17,8 +17,8 @@ From routing packets to reading sensors — always learning by doing.
 
 ### Microcontrollers & embedded systems
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Arduino, Raspberry Pi" height="42" />
+<img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32 (Espressif)" title="ESP32" width="42" height="42" />
 
 Working with sensors, embedded C++, and real-time monitoring.
 
