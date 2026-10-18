@@ -5,11 +5,11 @@ From routing packets to reading sensors — always learning by doing.
 
 ### Networking & infrastructure
 
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet%20%2F%20FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+<img src="https://cdn.simpleicons.org/mikrotik/94A3B8" alt="MikroTik" title="MikroTik" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/cisco/049FD9" alt="Cisco" title="Cisco" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/fortinet/EE3124" alt="Fortinet / FortiGate" title="Fortinet / FortiGate" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/ubiquiti/0559C9" alt="Ubiquiti" title="Ubiquiti" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/apache/D22128" alt="Apache" title="Apache" width="42" height="42" />
 
 ### Code & tools
 
