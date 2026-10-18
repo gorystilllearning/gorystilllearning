@@ -24,8 +24,6 @@ Working with sensors, embedded C++, and real-time monitoring.
 
 - [HC-SR04 Filter Monitor](https://github.com/gorystilllearning/hc-sr04-filter-monitor) — ultrasonic sensor filtering and a monitoring dashboard.
 
-### Bomberman
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gorystilllearning/gorystilllearning/bomberman/bomberman-contribution-graph-dark.svg" />
   <img alt="Bomberman animation of my GitHub contribution graph" src="https://raw.githubusercontent.com/gorystilllearning/gorystilllearning/bomberman/bomberman-contribution-graph.svg" />
