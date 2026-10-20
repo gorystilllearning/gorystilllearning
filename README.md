@@ -15,7 +15,7 @@ From routing packets to reading sensors — always learning by doing.
 
 ### Code & tools
 
-<img src="https://skillicons.dev/icons?i=python,cpp,docker&theme=dark" alt="Python, C++, Docker" height="42" />
+<img src="https://skillicons.dev/icons?i=python,cpp,docker,godot&theme=dark" alt="Python, C++, Docker, Godot" height="42" />
 
 ### Microcontrollers & embedded systems
 
